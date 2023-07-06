@@ -1,0 +1,165 @@
+body {
+    background-color: linear-gradient(175.68deg, #f7f7f8 -10.48%, #eff4f8 92.66%);
+}
+
+* {
+    font-family: 'Muli';
+  
+
+
+}
+
+.btn-color {
+    background: #458FF6;
+    font-size: 10px;
+    width: 120px;
+}
+.btn-color:hover{
+    background: #458FF6;
+    font-size: 10px;
+
+}
+
+.font-si {
+    color: #7D7987;
+
+}
+.learn-btn{
+    width: 170px;
+}
+.heading-1 {
+    font-size: 20px;
+}
+
+.three-cards {
+    width: 840px;
+    height: 24px;
+}
+.dow-btn{
+    width: 170px;
+}
+
+.font-s {
+    font-size: 10px;
+    color: #7D7987;
+
+}
+
+.setting-width {
+    width: 200px;
+
+}
+
+.bg-color {
+    background: #ffffff;
+    box-shadow: 20px 50px 50px rgba(239, 243, 266, 0.7);
+    border-radius: 24px;
+}
+
+.font-siz {
+    font-size: 12px;
+    color: #7D7987;
+}
+
+.parent-div {
+    background-image: url("bg.svg");
+    width: 700px;
+
+}
+.spaceee{
+    margin-right: 200px;
+}
+
+.text-sizd {
+    font-size: 10px;
+
+}
+.font-color{
+    color: #7D7987;
+    display: flex;
+    justify-content: end;
+    align-items: end;
+    margin-left: 320px;
+    
+    
+}
+
+.name {
+    font-size: 13px;
+}
+
+.para {
+    font-size: 12px;
+}
+
+.dots-position {
+    left: 70px;
+    bottom: 20px;
+}
+
+.card {
+    width: fit-content;
+}
+
+.hovering-tg:hover {
+    text-decoration: underline;
+    color: #458FF6;
+    cursor: pointer;
+
+
+}
+.image-sett{
+   top: 225.99px;
+   left: 139px;
+   
+}
+
+.hovering-tg {
+    color: #458FF6;
+    font-size: 12px;
+}
+
+.font-size-button {
+    font-size: 10px;
+}
+.image-set-2{
+    justify-content: end;
+    align-items: end;
+    margin-top: 80px;
+}
+.footer-bg {
+    background-image: url("bg\ \(2\).svg");
+
+
+}
+.servicesDots2{
+   align-items: end;
+   bottom:  34%;
+   right: 8%;
+    z-index:-1;
+}
+
+
+.btn-color-2 {
+    background-color: #eff4f8;
+    color: #458FF6;
+}
+
+.text-size {
+    font-size: 12px;
+}
+
+.footer-font-size {
+    font-size: 14px;
+}
+.blueDots{
+    bottom: 340px;
+    left: 17%;
+    z-index:-1;
+
+}
+.image-set {
+    justify-content: right;
+    align-items: end;
+    top: 40px;
+}
